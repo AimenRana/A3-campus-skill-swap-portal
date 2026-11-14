@@ -1,0 +1,25 @@
+{
+    "Adam123": {
+        "password": "Adam-123",
+        "skills": [
+            "Python",
+            "SQL",
+            "Marketing"
+        ]
+    },
+    "adam123": {
+        "password": "adam-123",
+        "skills": [
+            "SQL",
+            "C++",
+            "HTML"
+        ]
+    },
+    "adam125": {
+        "password": "adam-125",
+        "skills": [
+            "SQL",
+            "HTML"
+        ]
+    }
+}
